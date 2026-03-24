@@ -11,6 +11,11 @@ The objective was to evaluate:
 - Cancellation and Conversion behavior
 - Ward-level performance differences
 
+## Live Project (GitHub Pages)
+
+You can explore the interactive visualization here:
+
+👉 [View Project on GitHub Pages](https://mohitloonia.github.io/Namma_Yatri_Analysis/)
 ---
 
 ##  Key Metrics Created
@@ -90,7 +95,7 @@ Thus, SEI is strongly associated with operational stability, even if it does not
 ## Files in Repository
 
 - `analysis.R` → Main analysis script
-- `interactive_bubble_sei.html` → Interactive visualization
+- `index.html` → Interactive visualization
 - `top10_sei_clear.png`
 - `bottom10_sei_clear.png`
 - `earnings_per_km_vs_sei.png`
